@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_square"
+        android:enabled="true"
+        android:icon="@drawable/ic_square"
+        android:title="@string/label_square" />
+    <item
+        android:id="@+id/item_circle"
+        android:enabled="true"
+        android:icon="@drawable/ic_circle"
+        android:title="@string/label_circle" />
+    <item
+        android:id="@+id/item_triangle"
+        android:enabled="true"
+        android:icon="@drawable/ic_triangle"
+        android:title="@string/label_triangle" />
+    <item
+        android:id="@+id/item_mix"
+        android:enabled="true"
+        android:icon="@drawable/ic_pentagon"
+        android:title="@string/label_all" />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KShape</string>
+    <string name="label_square">Square</string>
+    <string name="label_circle">Circle</string>
+    <string name="label_triangle">Triangle</string>
+    <string name="label_all">All</string>
+</resources>
